@@ -8,14 +8,9 @@
 - 🎯 Portfolio website: [Portfolio](https://vincentnderitu.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-<div align="center">
-<img
-    src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
-    width="200"
-    height="200"
-  />
 
-### Languages and Tools: 
+
+### Languages and Tools
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
@@ -36,6 +31,7 @@
       height="40"
      />
  </a>
+ <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -254,12 +250,14 @@
       height="40"
          />
  </a>
+ <a>
       <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
       width="40"
       height="40"
     />
+ </a>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
 </p>
