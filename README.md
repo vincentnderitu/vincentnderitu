@@ -1,5 +1,5 @@
 <!-- <h3> Hi, I am Vincent Nderitu 👋</h3> -->
-###  Hi, I am Vincent Nderitu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+###  Hi, I am Vincent Nderitu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
 [![Gmail Badge](https://img.shields.io/badge/-vincentnderitu99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincentnderitu99@gmail.com)](mailto:vincentnderitu99@gmail.com) 
