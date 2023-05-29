@@ -40,7 +40,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentnderitu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
+</p>
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/vincentnderitu
