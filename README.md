@@ -249,14 +249,6 @@
       height="40"
          />
  </a>
- <a>
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons//nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-        />
- </a>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
 </p>
