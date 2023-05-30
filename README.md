@@ -1,5 +1,6 @@
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light+&weight=900&size=26&pause=1000&color=36F743&background=ECFFEA00&center=true&width=436&lines=Hi%2C+I+am+Finni;Full+Stack+%26+Web+Expert;Software+Developer)](https://git.io/typing-svg)
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light+&weight=900&size=26&pause=1000&color=36F743&background=ECFFEA00&center=true&width=436&lines=Hi%2C+I+am+Finni;Full+Stack+%26+Web+Expert;Software+Developer)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+ </p>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
 [![Gmail Badge](https://img.shields.io/badge/-vincentnderitu99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincentnderitu99@gmail.com)](mailto:vincentnderitu99@gmail.com) 
@@ -157,7 +158,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
       alt="qt"
-      width="40"
+      width=npx create-react-app my-app"40"
       height="40"
     />
   </a>
