@@ -11,8 +11,6 @@
 
 ### Languages and Tools
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="40" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="40" alt="html" style="max-width: 100%;">
-    <img height="40" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" width="40" alt="css" style="max-width: 100%;">
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
