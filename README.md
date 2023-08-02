@@ -36,5 +36,25 @@
 [![My Skills](https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,androidstudio,angular,ansible,apollo,appwrite,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,blender,bootstrap,bsd,c,cs,cpp,crystal,cassandra,clojure,cloudflare,cmake,codepen,coffeescript,css,d3,dart,deno,devto,discord,bots,django,docker,dotnet,dynamodb,eclipse,electron,elixir,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kotlin,ktor,kubernetes,laravel,latex,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nodejs,nuxtjs,ocaml,octave,openshift,openstack,perl,ps,php,plan9,planetscale,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redis,redux,regex,remix,replit,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,supabase,scala,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,threejs,twitter,ts,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vscode,vue,wasm,webflow,webpack,windicss,wordpress,workers,xd,zig&perline=15)](https://github.com/vincentnderitu)
 
 [![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
+
+---
+name: GitHub City
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.skyline.city.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
+  plugin_skyline_settings: |
+    {
+      "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+      "wait": 4,
+      "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+    }
+
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/vincentnderitu
