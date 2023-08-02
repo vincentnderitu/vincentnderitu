@@ -17,7 +17,8 @@
 - 🎯 Portfolio website: [Portfolio](https://vincentnderitu.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 
+
+  ---
 <!--START_SECTION:waka-->
 
 **🧌 My GitHub Stats** 
@@ -25,15 +26,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentnderitu&show_icons=true&theme=highcontrast" alt="vincentnderitu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincentnderitu&theme=highcontrast" alt="vincentnderitu" /></p>
+
 </details>
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
+---
 ### Languages and Tools
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
-
- ---
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/vincentnderitu)
 <p align="center">
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
