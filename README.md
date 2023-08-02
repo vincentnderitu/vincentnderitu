@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%F0%9F%91%BBFinni;Software%F0%9F%AB%A8+developer;Web%F0%9F%A4%96developer;%F0%9F%98%B5%E2%80%8D%F0%9F%92%ABDesigner;Analyst%F0%9F%A9%BB" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light+&weight=900&size=20&pause=1000&color=36F743&background=ECFFEA00&center=true&width=436&lines=Hi%2C+I+am+Finni;Full+Stack+%26+Web+Expert;Software+Developer)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1CB637&center=true&vCenter=true&width=435&lines=Make+it+Right;Make+it+Work" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90">
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
 [![Gmail Badge](https://img.shields.io/badge/-vincentnderitu99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincentnderitu99@gmail.com)](mailto:vincentnderitu99@gmail.com) 
