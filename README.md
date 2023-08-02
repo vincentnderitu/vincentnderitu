@@ -2,6 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+80s+Fade&size=40&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=I'm%F0%9F%91%BBFinni;Software%F0%9F%AB%A8+Dev;Web%F0%9F%A4%96developer;%F0%9F%98%B5%E2%80%8D%F0%9F%92%ABDesigner;Analyst%F0%9F%A9%BB" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1CB637&center=true&vCenter=true&width=435&lines=Make+it+Right;Make+it+Work" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+<p align="center">
+  <a href="https://github.com/vincentnderitu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/vincentnderitu"/></a>
  
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
