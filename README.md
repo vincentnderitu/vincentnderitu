@@ -8,7 +8,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/vincentnderitu"/></a>
 <a href="https://github.com/vincentnderitu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/vincentnderitu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </br></br>
  
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
@@ -18,7 +17,15 @@
 - 🎯 Portfolio website: [Portfolio](https://vincentnderitu.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
+- 
+<!--START_SECTION:waka-->
 
+**🧌 My GitHub Stats** 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentnderitu&show_icons=true&theme=highcontrast" alt="vincentnderitu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
+</details>
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 ### Languages and Tools
