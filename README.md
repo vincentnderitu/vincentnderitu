@@ -27,14 +27,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincentnderitu&theme=highcontrast" alt="vincentnderitu" /></p>
 
-</details>
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 ---
 ### Languages and Tools
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/vincentnderitu)
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,ai,zig,wordpress,webpack,visualstudio,vercel,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/vincentnderitu)
 <p align="center">
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
