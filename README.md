@@ -11,7 +11,7 @@
  
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
-Hit Me Up Anytime!
+Hit Me Up Anytime! 🤙
 [![Gmail Badge](https://img.shields.io/badge/-vincentnderitu99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincentnderitu99@gmail.com)](mailto:vincentnderitu99@gmail.com) 
 
 
