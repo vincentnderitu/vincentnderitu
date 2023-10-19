@@ -9,7 +9,6 @@
 <a href="https://github.com/vincentnderitu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/vincentnderitu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-[![Matrix SVG](https://github.com/vincentnderitu/vincentnderitu.github.io/blob/Main-Edit/textures/video/reel.mp4)](https://www.finni.com)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.finni.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vincentnderitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnderitu/)](https://www.linkedin.com/in/vincentnderitu/)
 Hit Me Up Anytime! 🤙
